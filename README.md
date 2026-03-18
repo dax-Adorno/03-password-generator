@@ -35,6 +35,7 @@ Python CLI application to generate secure passwords with customizable options su
 
 ## Demo
 
+![Project Demo](assets/demo.gif)
 
 ## More Projects
 
